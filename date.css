@@ -1,0 +1,67 @@
+body { background: #FFFFCC;
+       padding-right: 0.2in
+}
+
+body,td,ul,ol,blockquote,p,a, h1, h2, h3, h4 {
+    font-family: Georgia, "New Century Schoolbook", serif;
+}
+
+
+a:link  {
+ font-weight: bold;
+ color: #369;
+}       
+                
+a:visited { 
+ font-weight: bold;
+ color:  #009966;
+}       
+                
+a:active {       
+ font-weight: bold;
+ color:  #990;
+}       
+
+a:hover {
+  font-weight: bold;
+  color:  #660099;
+}
+
+.center     {text-align: center}
+
+.beige      {background-color: #FFEFD5}
+
+.mygreen    {background-color: #DDFFDD}
+
+.paleblue   {background-color: #99CCFF}
+
+.mypurple   {background-color: #DDDDFF}
+
+.myyellow   {background-color: #FFFFCC}
+
+.myrose     {background-color: #FFCCCC}
+
+td.w100px   {width: 100px}
+
+.big       {font-size: 18pt; font-family: Georgia, serif}
+
+.myname    {font-family: Georgia, serif; font-size: 24pt; font-weight: bold}
+
+.toplabel  {font-family: Georgia, serif; font-size: 18pt; font-weight: bold}
+
+div.books   {}
+
+div.books p     {background: #DDFFDD;
+      	        margin-right: 20%}
+
+div.books p span {color: #660099}
+
+ol ol {list-style-type: lower-alpha}
+
+li.separated {
+  margin-bottom: 1.5em;
+}
+
+
+
+
